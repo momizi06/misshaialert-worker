@@ -1,6 +1,6 @@
 name = "misshaialert-worker"
 main = "src/index.ts"
-compatibility_date = "2023-11-04"
+compatibility_date = "2025-08-14"
 
 #kv_namespaces = [
 #    { binding = "KV", id = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" }
@@ -13,7 +13,6 @@ crons = [ "10 15 * * *" ]
 
 [vars]
 #MISSKEY_HOST = "misskey.io"
-#MISSKEY_TOKEN = "YourToken"
 #POST_VISIBILITY = "home"
 #POST_TAGS = ["misshaialert"]
 #DEBOBI = true
