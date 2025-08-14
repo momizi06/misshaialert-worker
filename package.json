@@ -2,9 +2,9 @@
   "name": "misshaialert-worker",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240117.0",
-    "typescript": "^5.3.3",
-    "wrangler": "3.24.0"
+    "@cloudflare/workers-types": "^4.20250813.0",
+    "typescript": "^5.9.2",
+    "wrangler": "^4.29.1"
   },
   "private": true,
   "scripts": {
